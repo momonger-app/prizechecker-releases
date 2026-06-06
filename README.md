@@ -1,0 +1,2 @@
+# prizechecker-releases
+プライズチェッカーアプリのリリース先公開リポジトリ
